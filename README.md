@@ -1,5 +1,6 @@
 # Notes-Saver
 This a web development project
+<br>
 Author-Amisha Matur
 
 NoteSaver
@@ -22,12 +23,6 @@ NoteSaver is a simple and efficient web application that allows users to create,
 - **Backend**: Node.js, Express.js (if applicable)
 - **Database**: MongoDB / Firebase / LocalStorage (based on your implementation)
 - **Hosting**: GitHub Pages / Heroku / Vercel
-
-
-Screenshots
-
-*(Add screenshots of your UI here)*
-
 
 
  Installation
