@@ -25,11 +25,3 @@ NoteSaver is a simple and efficient web application that allows users to create,
 - **Hosting**: GitHub Pages / Heroku / Vercel
 
 
- Installation
-
-Clone the repository and install dependencies (if applicable):
-
-```bash
-git clone https://github.com/your-username/notesaver.git
-cd notesaver
-npm install   # (Only if using Node/React)
